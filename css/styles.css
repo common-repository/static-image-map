@@ -1,0 +1,68 @@
+/*
+img apercu
+*/
+div#static-image-map div.apercu img{
+    height:auto;
+    width:100%;
+    max-width:640px;
+
+}
+/*
+tool tip help
+*/
+div#static-image-map div.tt a{
+    display:inline-block;
+  
+    padding: 0 10px 0 0;
+    width: 18px;
+    line-height: 18px;
+    height: 18px;
+
+    font-size: 14px;
+    text-align: center;
+    cursor: help;
+}
+
+div#static-image-map div.tt a::before{
+    display:inline-block;
+    content: "\f223";
+    font-family: dashicons;
+    vertical-align: middle;
+    font-style: normal;
+    color:#356aa0;
+    vertical-align: middle;
+    font-size: 24px;
+    
+    text-align: center;
+}
+
+div#static-image-map .ui-tooltip {
+    padding: 10px 20px;
+    color: #333333;
+    background: #fff;
+
+    border-radius: 4px;
+    border: 1px solid white; 
+
+    font: bold 14px "Helvetica Neue", Sans-Serif;
+    text-transform: none;
+    box-shadow: 0 0 7px #356aa0;
+    max-width:350px;
+}
+ 
+div#static-image-map i.api::before{
+    font-family: dashicons;
+    display:inline-block;
+    content: "\f504";
+    font-style: normal;
+    color: #356aa0;
+    vertical-align: middle;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+}
+
+ 
+div#static-image-map #api_key + a{
+  margin-left: 20px;
+}

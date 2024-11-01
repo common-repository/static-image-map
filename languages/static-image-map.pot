@@ -1,0 +1,154 @@
+# Copyright (C) 2020 
+# This file is distributed under the same license as the Static Image Map plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Static Image Map 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/static-image-map\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-27T20:40:51+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. Plugin Name of the plugin
+msgid "Static Image Map"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://fourmi-integree.com/wp-plugins/#google-static-map"
+msgstr ""
+
+#. Description of the plugin
+msgid "Static Image Map is an easy to use plugin to insert a static map on your site."
+msgstr ""
+
+#: static-image-map.php:155
+msgid "Map"
+msgstr ""
+
+#: static-image-map.php:162
+msgid "Preview"
+msgstr ""
+
+#: static-image-map.php:174
+msgid "Settings"
+msgstr ""
+
+#: static-image-map.php:224
+msgid "Dimension"
+msgstr ""
+
+#: static-image-map.php:281
+msgid "The api key is required"
+msgstr ""
+
+#: static-image-map.php:307
+msgid "The civic address is required"
+msgstr ""
+
+#: static-image-map.php:328
+msgid "Width is required"
+msgstr ""
+
+#: static-image-map.php:332
+#: static-image-map.php:336
+msgid "Width must be a positive integer"
+msgstr ""
+
+#: static-image-map.php:352
+msgid "Height is required"
+msgstr ""
+
+#: static-image-map.php:356
+#: static-image-map.php:360
+msgid "Height must be a positive integer"
+msgstr ""
+
+#: static-image-map.php:377
+msgid "The zoom level must be a positive number"
+msgstr ""
+
+#: static-image-map.php:383
+msgid "The zoom level is required"
+msgstr ""
+
+#: static-image-map.php:445
+msgid "Image created: "
+msgstr ""
+
+#: static-image-map.php:449
+msgid "See on google map: "
+msgstr ""
+
+#: static-image-map.php:455
+msgid "The image does not exist?"
+msgstr ""
+
+#: static-image-map.php:456
+msgid "Should be here: "
+msgstr ""
+
+#: static-image-map.php:464
+msgid "Missing parameters to generate an image map!"
+msgstr ""
+
+#: static-image-map.php:482
+msgid "Get API Key"
+msgstr ""
+
+#: static-image-map.php:180
+msgid "Api key: Google Maps Static API key is required. Follow the link at the right."
+msgstr ""
+
+#: static-image-map.php:180
+msgid "Api key"
+msgstr ""
+
+#: static-image-map.php:188
+msgid "Address: a unique addresses or a latitude,longitude value."
+msgstr ""
+
+#: static-image-map.php:188
+msgid "Address"
+msgstr ""
+
+#: static-image-map.php:202
+msgid "Map type: one of the four formats."
+msgstr ""
+
+#: static-image-map.php:202
+msgid "Map type"
+msgstr ""
+
+#: static-image-map.php:221
+msgid "Width: horizontal dimension of the map. Maximum value for 'Pay-As-You-Go' is 640."
+msgstr ""
+
+#: static-image-map.php:221
+msgid "Width"
+msgstr ""
+
+
+#: static-image-map.php:229
+msgid "Height: vertical dimension of the map. Maximum value for 'Pay-As-You-Go' is 640."
+msgstr ""
+
+#: static-image-map.php:229
+msgid "Height"
+msgstr ""
+
+#: static-image-map.php:237
+msgid "Zoom level: determines the magnification level of the map. The value is in between 0 and 21."
+msgstr ""
+
+#: static-image-map.php:237
+msgid "Zoom level"
+msgstr ""
+
+#: static-image-map.php:93
+msgid "Upload folder not writable"
+msgstr ""
+

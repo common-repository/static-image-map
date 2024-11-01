@@ -1,0 +1,178 @@
+# Copyright (C) 2020 
+# This file is distributed under the same license as the Google Static Map for Wordpress plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Static Map for Wordpress 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/static-image-map\n"
+"POT-Creation-Date: 2020-05-27T20:40:51+02:00\n"
+"PO-Revision-Date: 2020-06-03 12:51-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Plugin Name of the plugin
+msgid "Static Image Map"
+msgstr "Static Image Map"
+
+#. Plugin URI of the plugin
+msgid "https://fourmi-integree.com/wp-plugins/#google-static-map"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Static Image Map is an easy to use plugin to insert a static map on your "
+"site."
+msgstr ""
+"Static Image Map est un plugin facile à utiliser pour insérer une carte "
+"statique sur votre site."
+
+#: static-image-map.php:155
+msgid "Map"
+msgstr "Carte"
+
+#: static-image-map.php:162
+msgid "Preview"
+msgstr "Aperçu"
+
+#: static-image-map.php:174
+msgid "Settings"
+msgstr "Réglages"
+
+#: static-image-map.php:224
+msgid "Dimension"
+msgstr "Dimension"
+
+#: static-image-map.php:281
+msgid "The api key is required"
+msgstr "La clé de l'apiest requise"
+
+#: static-image-map.php:307
+msgid "The civic address is required"
+msgstr "L'adresse civique est requise"
+
+#: static-image-map.php:328
+msgid "Width is required"
+msgstr "La largeur est requise"
+
+#: static-image-map.php:332 static-image-map.php:336
+msgid "Width must be a positive integer"
+msgstr "La largeur doit être un entier positif"
+
+#: static-image-map.php:352
+msgid "Height is required"
+msgstr "La hateur est requise"
+
+#: static-image-map.php:356 static-image-map.php:360
+msgid "Height must be a positive integer"
+msgstr "La hauteur doit être un entier positif"
+
+#: static-image-map.php:377
+msgid "The zoom level must be a positive number"
+msgstr "Le niveau de zoom doit être un nombre positif"
+
+#: static-image-map.php:383
+msgid "The zoom level is required"
+msgstr "Le niveau zoom est requis"
+
+#: static-image-map.php:445
+msgid "Image created: "
+msgstr "Image créée : "
+
+#: static-image-map.php:449
+msgid "See on google map: "
+msgstr "Consultez l'adresse sur google map : "
+
+#: static-image-map.php:455
+msgid "The image does not exist?"
+msgstr " L'image n'existe pas ?"
+
+#: static-image-map.php:456
+msgid "Should be here: "
+msgstr "Devrait être ici :"
+
+#: static-image-map.php:464
+msgid "Missing parameters to generate an image map!"
+msgstr "Paramètres manquants pour générer une carte d'image !"
+
+#: static-image-map.php:482
+msgid "Get API Key"
+msgstr "Obtenir la clé API"
+
+#: static-image-map.php:180
+msgid ""
+"Api key: Google Maps Static API key is required. Follow the link at the "
+"right."
+msgstr ""
+"Clé API : la clé API statique de Google Maps est requise. Suivez le lien à "
+"droite."
+
+#: static-image-map.php:180
+msgid "Api key"
+msgstr "Clé API"
+
+#: static-image-map.php:188
+msgid "Address: a unique addresses or a latitude,longitude value."
+msgstr "Adresse : une adresse unique ou une coordonnée latitude, longitude."
+
+#: static-image-map.php:188
+msgid "Address"
+msgstr "Adresse"
+
+#: static-image-map.php:202
+msgid "Map type: one of the four formats."
+msgstr "Type de carte : choisir l'un des quatre formats possibles."
+
+#: static-image-map.php:202
+msgid "Map type"
+msgstr "Type de carte"
+
+#: static-image-map.php:221
+msgid ""
+"Width: horizontal dimension of the map. Maximum value for 'Pay-As-You-Go' is "
+"640."
+msgstr ""
+"Largeur: dimension horizontale de la carte. La valeur maximale pour «Pay-As-"
+"You-Go» est 640."
+
+#: static-image-map.php:221
+msgid "Width"
+msgstr "Largeur"
+
+#: static-image-map.php:229
+msgid ""
+"Height: vertical dimension of the map. Maximum value for 'Pay-As-You-Go' is "
+"640."
+msgstr ""
+"Hauteur: dimension verticale de la carte. La valeur maximale pour «Pay-As-"
+"You-Go» est 640."
+
+#: static-image-map.php:229
+msgid "Height"
+msgstr "Hauteur"
+
+#: static-image-map.php:237
+msgid ""
+"Zoom level: determines the magnification level of the map. The value is in "
+"between 0 and 21."
+msgstr ""
+"Niveau du zoom: détermine le niveau d'agrandissement de la carte. La valeur "
+"est comprise entre 0 et 21."
+
+#: static-image-map.php:237
+msgid "Zoom level"
+msgstr "Niveau du zoom"
+
+#: static-image-map.php:93
+msgid "Upload folder not writable"
+msgstr "Le dossier de téléchargement est non accessible en mode écriture"
+
+#~ msgid "api_key est requis"
+#~ msgstr "Clé API est requise"
+
+#~ msgid "Google Static Map for WordPress"
+#~ msgstr "Google Static Map pour Wordpress"
